@@ -8,5 +8,4 @@ Source code for each version are in different branches.
 
 ## License
 
-ThaiFixes is licensed under MIT license. All Minecraft assets and decompiled source code are copyrighted by Mojang.
-
+ThaiFixes is licensed under MIT license. If other licenses is stated in releases, you can accept those license too, otherwise is MIT. All Minecraft assets and decompiled source code are copyrighted by Mojang.
